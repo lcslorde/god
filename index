@@ -6,7 +6,7 @@
    <body>
       <header>   
       <h1>Seu Blog Pessoal</h1>
-      <nav>
+      <nav>index
          <a href=”dominio.tld/home”>Início</a>
          <a href=”dominio.tld/blog”>Blog</a>
          <a href=”dominio.tld/sobre”>Sobre</a>
@@ -18,17 +18,17 @@
                <h1>Postagem Mais Recente</h1>
                <section>
                   <h1>Primeira Postagem</h1>
-                  <p>O conteúdo do 1 post</p>
+                  <p>O  olá meu nome lorde</p>
                </section>
             </div>
             <div class=”profile”>
                <h1>Sobre Mim</h1>
-               <img src=”foto-de-perfil.png”>
-               <p>Sobre o autor</p>
+               <img src=”foto-de-perfil.png”>index
+               <p>Sobre o autor</p>index
             </div>  
-         </div>        
+         </div>        index
       </main>
-      <footer>
+      <footer>index
          <a href=”twitter.com/autor”>Twitter</a>
          <a href=”facebook.com/autor”>Facebook</a>
          <a href=”instagram.com/autor”>Instagram</a>
