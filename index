@@ -28,10 +28,13 @@
             </div>  
          </div>        index
       </main>
-      <footer>index
-         <a href=”twitter.com/autor”>Twitter</a>
-         <a href=”facebook.com/autor”>Facebook</a>
-         <a href=”instagram.com/autor”>Instagram</a>
+      <footer class="rodape">
+         <a href="https://www.instagram.com/&quot; target="_blank">
+         <img class="icone" src="instagram.png" alt="Logo Instagram."></a>
+         <a href="https://www.facebook.com/&quot; target="_blank">
+         <img class="icone" src="facebook.png" alt="Logo Facebook."></a>
+         <a href="https://twitter.com/&quot; target="_blank">
+         <img class="icone" src="twitter.png" alt="Logo Twitter."></a>
       </footer>
     </body>
 </html>
